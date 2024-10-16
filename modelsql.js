@@ -1,5 +1,5 @@
 import  Sequelize  from "sequelize"
-import sequelize from "../utils/database.js"
+import sequelize from ".database.js"
 
 const data = sequelize.define('Repo', {
     id: {
