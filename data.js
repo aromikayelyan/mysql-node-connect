@@ -1,5 +1,5 @@
 import { Router } from "express"
-import Repo from "../models/modelsql.js"
+import Repo from "./modelsql.js"
 
 const router = Router()
 
