@@ -1,7 +1,7 @@
 import express from "express";
 import path from "path"
-import dateroute from "./routes/data.js"
-import sequelize from "./utils/database.js"
+import dateroute from "./data.js"
+import sequelize from "./database.js"
 
 
 
